@@ -4,7 +4,7 @@ cat <<EOL > README.md
 ## 💫 About Me
 I'm a passionate **software developer** focused on improving my problem-solving skills and mastering modern web development technologies. I love working with **js**, building dynamic and user-friendly interfaces, and continuously challenging myself to grow as a developer.
 
-## Technologies I Use 🛠
+## 🛠 Technologies I Use
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -29,7 +29,7 @@ I'm a passionate **software developer** focused on improving my problem-solving 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
-## Let's Connect! 🔗
+## 🔗 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/yahiacherrat)
 - [Twitter](https://x.com/cherratyahia)
 - [Portfolio](#) (UNDER DEVELOPMENT)
