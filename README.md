@@ -1,7 +1,7 @@
 cat <<EOL > README.md
-# Hi there! 👋
+# Hi 👋, I'm Yahia Cherrat
 
-## About Me
+## 💫 About Me
 I'm a passionate **software developer** focused on improving my problem-solving skills and mastering modern web development technologies. I love working with **js**, building dynamic and user-friendly interfaces, and continuously challenging myself to grow as a developer.
 
 ## Technologies I Use 🛠
