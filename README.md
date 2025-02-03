@@ -1,4 +1,3 @@
-cat <<EOL > README.md
 # Hi 👋, I'm Yahia Cherrat
 
 ## 💫 About Me
