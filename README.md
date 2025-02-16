@@ -31,7 +31,6 @@ I'm a passionate **software developer** focused on improving my problem-solving 
 ## 🔗 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/yahiacherrat)
 - [Twitter](https://x.com/cherratyahia)
-- [Portfolio](#) (UNDER DEVELOPMENT)
+- [Portfolio](https://yahia-cherrat.vercel.app) (UNDER IMPROVEMENT)
 
 Always open to collaboration and learning opportunities. Feel free to check out my repositories and reach out! 🚀
-EOL
